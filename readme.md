@@ -5,3 +5,5 @@ I'm a self-taught engineer with a passion for learning, creating, and contributi
 Software is my passion, and I want to build tools for the future. 
 
 ![TylorS' Github Status](https://github-readme-stats.vercel.app/api?username=TylorS&count_private=true)
+
+[![TylorS' Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/tylors/github-readme-stats)
