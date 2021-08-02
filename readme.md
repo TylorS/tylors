@@ -8,6 +8,6 @@ Software is my passion, and I want to build tools for the future.
 
 ![My GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TylorS)
 
-![Visitors since 12 Dec 2020](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=TylorS&repo=TylorS&countColor=%237B1E7A)
+![Visitors since Aug 2 2021](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=TylorS&repo=TylorS&countColor=%237B1E7A)
 
 [![TylorS' Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/tylors/github-readme-stats)
