@@ -1,6 +1,6 @@
 # Tylor Steinberger
 
-I'm a self-taught engineer with a passion for learning, creating, and contributing. I'm an Open Source Enthusiast; Author of [Motorcycle.ts](https://github.com/motorcycle.ts), [Typed-FP](https://github.com/TylorS/typed-fp); Contributor to [Effect](https://githu.com/effect-ts/effect), [Cycle](https://github.com/cyclejs/cyclejs), [Most](https://github.com/mostjs/core), and [Snabbdom](https://github.com/snabbdom/snabbdom) among maintaining and contributing to numerous other open-source libraries you'll find across my profile. 
+I'm a self-taught engineer with a passion for learning, creating, and contributing. I'm an Open Source Enthusiast; Author of [Motorcycle.ts](https://github.com/motorcycle.ts), [Typed](https://github.com/TylorS/typed); Contributor to [Effect](https://githu.com/effect-ts/effect), [Cycle](https://github.com/cyclejs/cyclejs), [Most](https://github.com/mostjs/core), and [Snabbdom](https://github.com/snabbdom/snabbdom) among maintaining and contributing to numerous other open-source libraries you'll find across my profile. 
 
 Software is my passion, and I want to build tools for the future. 
 
