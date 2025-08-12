@@ -6,4 +6,4 @@ Software is my passion, and I want to build tools for the future.
 
 ![My GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TylorS)
 
-These days I'm mostly learning to write a programming language. 
+These days I'm mostly learning to write programming languages.
